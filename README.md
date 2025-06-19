@@ -30,16 +30,6 @@ HTML, CSS, React, Git, AWS, VS Code
 SQL, MongoDB
 
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/madhuri-perumalla-5a8919330">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:madhurisriperumalla@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   🚀 Always learning. Always building.
